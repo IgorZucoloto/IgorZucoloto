@@ -48,12 +48,12 @@ Aqui compartilho minha jornada de aprendizado em Engenharia Mecatrônica, inclui
 
 > Adicione abaixo seus projetos reais, com uma breve descrição, as tecnologias utilizadas e o que você aprendeu em cada um.
 
-<!-- Exemplo de estrutura para adicionar um projeto:
-### Nome do projeto
-Descrição do objetivo e do funcionamento.
-Tecnologias: [liste apenas as utilizadas].
-Código: [link do repositório]
--->
+
+### JOGAI
+O projeto em resumo consiste em uma assistente virtual desenvolvida com Esp32 e utilizando um servidor python que comunica com Inteligência Artificial. 
+Tecnologias: FreeRTOS, Python, C e MCU.
+Código: https://github.com/IgorZucoloto/UPXII_JOGAI.git
+
 
 ## `>_ GitHub Analytics`
 
