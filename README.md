@@ -69,6 +69,19 @@ Assistente virtual desenvolvida com ESP32, integrada a um servidor em Python que
   </a>
 </p>
 
+### 🤖 Projeto - Placa de Módulo Relé 
+
+Placa de módulo relé utilizado em Arduino, Esp32 e etc... desenvolvida no Kicad 
+
+**Tecnologias utilizadas:**
+- Kicad
+<p align="center">
+  <a href="https://github.com/IgorZucoloto/Project---Relay-board-.git">
+    <img src="https://img.shields.io/badge/VER_PROJETO-7027A0?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto JOGAI no GitHub" />
+  </a>
+</p>
+
+
 ## `>_ GitHub Analytics`
 
 <p align="center">
